@@ -3,7 +3,7 @@
 
 Template for a Java CLI Command. Copy the template and adjust to your own needs.
 
-* Rename hello.sh to <command>.sh
+* Rename hello.sh to [command].sh
    * Do not modify its contents
 * Adjust the contents of run-env.sh, this contains the customizations.
 * Leave run-java.sh as it is. No changes should be necessary.
